@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MJENGHWL
+DocumentUniqueId=UOEAOGOQ
 
 [Document2]
 DocumentPath=003-00004.PcbDoc
@@ -68,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TCJIEQSL
+DocumentUniqueId=IDVBNCKW
 
 [Document3]
 DocumentPath=Variant.OutJob
@@ -102,7 +102,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YFYGYFVM
+DocumentUniqueId=EDMDSASH
 
 [Document5]
 DocumentPath=Lattice_ECP5_power.SchDoc
@@ -119,7 +119,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VSFCOYTK
+DocumentUniqueId=EYPNSDFJ
 
 [Document6]
 DocumentPath=PCB.OutJob
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JJTMHHSA
+DocumentUniqueId=SXCEMLYO
 
 [Document8]
 DocumentPath=Lattice_ECP5.Harness
@@ -187,7 +187,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JUWGPCKI
+DocumentUniqueId=TOKWGWLA
 
 [Document10]
 DocumentPath=PCIe_x1_edge.Harness
@@ -255,7 +255,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AJBJRDUN
+DocumentUniqueId=MIYYFYPC
 
 [Document14]
 DocumentPath=MIC24085.SchDoc
@@ -272,7 +272,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DNVOOTKO
+DocumentUniqueId=UMDLLPOE
 
 [Document15]
 DocumentPath=Micron_DDR3_64Mx16.SchDoc
@@ -289,7 +289,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IWOEUEBB
+DocumentUniqueId=ALYMVNYJ
 
 [Document16]
 DocumentPath=Micron_DDR3_64Mx16.Harness
@@ -321,7 +321,7 @@ Value=001-00004
 
 [Parameter2_2]
 Name=AssemblyDrawingRevision
-Value=A
+Value=B
 
 [Parameter2_3]
 Name=DesignTitle
@@ -333,19 +333,19 @@ Value=001-00004
 
 [Parameter2_5]
 Name=SchematicDrawingRevision
-Value=A
+Value=B
 
 [Parameter1]
-Name=copyrightDate
-Value=2014
+Name=PCBPartNumber
+Value=003-00004
 
 [Parameter2]
 Name=DrillDrawingRevision
-Value=A
+Value=B
 
 [Parameter3]
-Name=PCBPartNumber
-Value=003-00004
+Name=copyrightDate
+Value=2014
 
 [Configuration1]
 Name=Release Data - PCB
