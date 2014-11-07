@@ -15,12 +15,12 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Variant.OutJob
 Description=
 TargetOutputMedium=Pick and Place
 VariantName=[No Variations]
 VariantScope=0
-CurrentConfigurationName=Release Data - 001-00005
+CurrentConfigurationName=Release Data - 001-00004
 TargetPrinter=hweng-print.hsv.digium.com#:2
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=0
 OutputMedium1=Print Job
@@ -131,7 +131,7 @@ OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.62|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=23806463|ViewY=13586874|LookAtX=37623876|LookAtY=64385136|LookAtZ=666071.875|QuatX=-0.0506177693605423|QuatY=0.107504807412624|QuatZ=0.00030040746787563|QuatW=0.992915093898773|Zoom=4.2467459361386E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig=
+Configuration5_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=62044350|ViewY=47218695|LookAtX=37313468|LookAtY=64618876|LookAtZ=-1956231.5|QuatX=-0.0885985717177391|QuatY=-0.0851451233029366|QuatZ=-0.00340119865722954|QuatW=0.99241578578949|Zoom=1.96955887713508E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ViewConfig= 
 
 [PublishSettings]
 OutputFilePath2=
@@ -159,9 +159,9 @@ MarkPortsId2=1
 GenerateTOC=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
-OutputFilePath3=Z:\Source\altium-designs\003-00005\trunk\Output\
+OutputFilePath3=Z:\Source\titan\Output\
 ReleaseManaged3=1
-OutputBasePath3=Output
+OutputBasePath3=
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=
@@ -172,7 +172,7 @@ OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=1
-OutputFilePath4=Z:\Source\altium-designs\003-00005\trunk\Output\
+OutputFilePath4=Z:\Source\titan\Output\
 ReleaseManaged4=1
 OutputBasePath4=
 OutputPathMedia4=
@@ -189,7 +189,7 @@ OpenOutput4=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=Z:\Source\altium-designs\003-00005\trunk\Output\
+RelativeOutputPath3=Z:\Source\titan\Output\
 OpenOutputs3=1
 AddToProject3=0
 TimestampFolder3=0
@@ -199,7 +199,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=Z:\Source\altium-designs\003-00005\trunk\Output\
+RelativeOutputPath4=Z:\Source\titan\Output\
 OpenOutputs4=1
 AddToProject4=1
 TimestampFolder4=0
