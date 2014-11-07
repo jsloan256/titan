@@ -312,7 +312,8 @@ DocumentUniqueId=
 Description=001-00004
 AllowFabrication=0
 ParameterCount=5
-VariationCount=0
+VariationCount=1
+Variation1=Designator=P1|UniqueId=\YHMSAPNL\MPFHJAXL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
