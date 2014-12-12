@@ -37,7 +37,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=003-00004.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -85,7 +85,7 @@ GenerateClassCluster=0
 
 [Document4]
 DocumentPath=Lattice_ECP5.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 
 [Document5]
 DocumentPath=Lattice_ECP5_power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -133,7 +133,7 @@ GenerateClassCluster=0
 
 [Document7]
 DocumentPath=MEC8_Expansion.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -165,7 +165,7 @@ GenerateClassCluster=0
 
 [Document9]
 DocumentPath=PCIe_x1_edge.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -245,7 +245,7 @@ GenerateClassCluster=0
 
 [Document14]
 DocumentPath=MIC24085.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
