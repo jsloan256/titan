@@ -21,7 +21,7 @@ TargetOutputMedium=Pick and Place
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=Release Data - 001-00004
-TargetPrinter=hweng-print.hsv.digium.com#:2
+TargetPrinter=
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
