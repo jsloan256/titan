@@ -1,0 +1,53 @@
+Added Component: Designator=FD1(005-00024)
+Added Component: Designator=FD2(005-00024)
+Added Component: Designator=FD3(005-00024)
+Added Component: Designator=FD4(005-00024)
+Added Rule: Name=Schematic Differential Pairs Routing_19
+Added Rule: Name=Schematic Differential Pairs Routing_21
+Added Rule: Name=Schematic Differential Pairs Routing_23
+Added Rule: Name=Schematic Differential Pairs Routing_25
+Added Rule: Name=Schematic Differential Pairs Routing_28
+Added Rule: Name=Schematic Differential Pairs Routing_31
+Added Rule: Name=Schematic Differential Pairs Routing_40
+Added Rule: Name=Schematic Differential Pairs Routing_41
+Added Rule: Name=Schematic Differential Pairs Routing_42
+Added Rule: Name=Schematic Differential Pairs Routing_45
+Added Rule: Name=Schematic Differential Pairs Routing_47
+Added Rule: Name=Schematic Differential Pairs Routing_51
+Added Rule: Name=Schematic Differential Pairs Routing_52
+Added Rule: Name=Schematic Differential Pairs Routing_54
+Added Rule: Name=Schematic Differential Pairs Routing_56
+Change Rule Scope 1 : Old Scope=InNet('B_DQ0-0_N') New Scope=InNet('A_DQ0-0_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ0-0_P') New Scope=InNet('A_DQ0-0_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-1_P') New Scope=InNet('B_DQ0-1_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-2_N') New Scope=InNet('B_DQ0-2_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ0-3_N') New Scope=InNet('A_DQ0-3_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ0-4_N') New Scope=InNet('A_DQ0-4_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-4_P') New Scope=InNet('B_DQ0-4_P')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ1-0_N') New Scope=InNet('A_DQ1-0_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-1_N') New Scope=InNet('B_DQ1-1_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ1-1_P') New Scope=InNet('A_DQ1-1_P')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ1-3_P') New Scope=InNet('A_DQ1-3_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQS1_N') New Scope=InNet('B_DQS1_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQS1_P') New Scope=InNet('B_DQS1_P')
+Change Rule Scope 1 : Old Scope=InNet('A_PCLK_N') New Scope=InNet('B_PCLK_N')
+Change Rule Scope 1 : Old Scope=InNet('B_PCLK_P') New Scope=InNet('A_PCLK_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-0_N') New Scope=InNet('B_DQ0-0_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-0_P') New Scope=InNet('B_DQ0-0_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-1_N') New Scope=InNet('B_DQ0-1_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ0-2_P') New Scope=InNet('A_DQ0-2_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-2_P') New Scope=InNet('B_DQ0-2_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-3_N') New Scope=InNet('B_DQ0-3_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ0-3_P') New Scope=InNet('B_DQ0-3_P')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ0-4_P') New Scope=InNet('A_DQ0-4_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-0_N') New Scope=InNet('B_DQ1-0_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-0_P') New Scope=InNet('B_DQ1-0_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-2_N') New Scope=InNet('B_DQ1-2_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-2_P') New Scope=InNet('B_DQ1-2_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-3_N') New Scope=InNet('B_DQ1-3_N')
+Change Rule Scope 1 : Old Scope=InNet('A_DQ1-4_N') New Scope=InNet('B_DQ1-4_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQ1-4_P') New Scope=InNet('A_DQ1-4_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQS0_N') New Scope=InNet('B_DQS0_N')
+Change Rule Scope 1 : Old Scope=InNet('B_DQS0_P') New Scope=InNet('A_DQS0_P')
+Change Rule Scope 1 : Old Scope=InNet('A_DQS0_P') New Scope=InNet('B_DQS0_P')
+Change Rule Scope 1 : Old Scope=InNet('B_DQS1_P') New Scope=InNet('A_DQS1_P')
