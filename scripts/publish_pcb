@@ -1,0 +1,17 @@
+read -p "Hit control-C if you are not in the trunk folder."
+
+mkdir $1-$2
+
+mkdir $1-$2/scratch
+cp Release\ Data\ -\ PCB/Gerbers/* $1-$2/scratch/.
+cp Release\ Data\ -\ PCB/NC\ Drill\ Files/* $1-$2/scratch/.
+cp Release\ Data\ -\ PCB/Test\ Point\ Report/*.ipc $1-$2/scratch/.
+cp LICENSE $1-$2/scratch/.
+rm $1-$2/scratch/*.OutputStatus
+cd $1-$2/scratch
+zip ../$1-$2\ Gerbers.zip *
+cd ../..
+
+zip $1-$2/$1-$2\ Stencil.zip Release\ Data\ -\ PCB/Stencil/$1.GM2 ../trunk/Release\ Data\ -\ PCB/Stencil/$1.G*P
+
+rm -rf $1-$2/scratch

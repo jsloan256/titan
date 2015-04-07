@@ -1,0 +1,7 @@
+read -p "Hit control-C if you are not in the trunk folder."
+
+mkdir $1-$2
+cp Release\ Data\ -\ $1/Schematic\ Diagram.PDF $1-$2/$1-SCH-$2.PDF
+cp Release\ Data\ -\ $1/Assembly\ Drawings.PDF $1-$2/$1-ASY-$2.PDF
+cp Release\ Data\ -\ $1/Bill\ of\ Materials.htm $1-$2/$1-BOM-$2.htm
+cp Release\ Data\ -\ $1/PCB\ 3D\ Print.PDF $1-$2/$1-3DT-$2.PDF
