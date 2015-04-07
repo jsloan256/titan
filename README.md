@@ -7,7 +7,7 @@ Titan is a PCI Express development card for the Lattice ECP5 FPGA. Titan is desi
 * [Limited feature set](https://github.com/c-e-s/titan/wiki/Features)
 * Fully validated design
 
-![titan_green](https://cloud.githubusercontent.com/assets/1245478/4436824/b88a54ee-4783-11e4-94c3-9e52cd6d6a3a.jpg)
+![titan-c](https://cloud.githubusercontent.com/assets/1245478/7033198/13ad46e2-dd3e-11e4-9fdc-3ec66cf9e8df.jpg)
 
 # Tools
 * Altium Designer 15.0.15
